@@ -1,5 +1,6 @@
 This repository contains a notebook and datasets that will be used to explore and analyse global mortality data for the years through 1987 to 2021, 
 focusing on four classes of cause of death or health conditions, including communicable diseases, non-communicable diseases, ill-defined diseases, and injuries.
+The datasets is from WHO Mortality Database
 The primary objective is to explore patterns and trends in mortality rates for different health conditions, 
 and determine how these rates vary across different regions, countries, sex and age groups.
 The datasets, in csv formats were read in and merged into a single dataframe, merged_deaths_df. 
